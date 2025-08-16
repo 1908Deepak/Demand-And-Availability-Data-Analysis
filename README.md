@@ -1,6 +1,6 @@
-# INSURANCE DATA ANALYSIS
+# DEMAND & AVAILABILITY DATA ANALYSIS
 
-### Dashboard Link :https://app.powerbi.com/groups/9dfd857a-796e-4f06-82d4-c4d57ddb57f0/reports/266d70fb-f7e4-45ac-84ef-e7b3ad6fe072/b1562978409a404112cb?experience=power-bi
+### Dashboard Link :[https://app.powerbi.com/groups/9dfd857a-796e-4f06-82d4-c4d57ddb57f0/reports/266d70fb-f7e4-45ac-84ef-e7b3ad6fe072/b1562978409a404112cb?experience=power-bi](https://app.powerbi.com/links/EU2xZ37XJZ?ctid=37d002c9-062c-435d-beff-d1efc9989fe4&pbi_source=linkShare)
 
 ## Problem Statement
 Businesses often face challenges in balancing customer demand with available supply. Tracking demand and availability across regions, time, and product categories helps improve forecasting, reduce stockouts, and optimize inventory.
